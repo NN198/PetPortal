@@ -1,2 +1,2 @@
 # PetPortal
-Pet Portal project for pet owners seeking veterinarians.
+Pet Portal web application for pet owners seeking veterinarians.
