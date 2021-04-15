@@ -5,4 +5,4 @@ Pet Portal web application for pet owners seeking veterinarians.
 Run SpringBootApplication from the java file
 
 ## Load React JS File 
-Run the React JS project on VS Code or command terminal 
+Run the React JS project on VS Code or command line
