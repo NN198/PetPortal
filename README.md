@@ -1,5 +1,8 @@
 # PetPortal
 Pet Portal web application for pet owners seeking veterinarians.
 
-# Download the Pet Java 
-Run ##SprinBootApplication from the java file
+# Load the Pet Java File
+Run SpringBootApplication from the java file
+
+# Load REACT JS File 
+Run the React JS project on VS Code or command terminal 
